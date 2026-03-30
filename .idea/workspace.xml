@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97fd174d-e045-4f84-afb4-7a70a0a76875" name="Changes" comment="Initial files">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/primes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/unit/test_primes.py" afterDir="false" />
+    <list default="true" id="97fd174d-e045-4f84-afb4-7a70a0a76875" name="Changes" comment="Provar pusha (fel i linter och unit tests)">
+      <change beforePath="$PROJECT_DIR$/src/algorithms/primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/primes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/test_primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit/test_primes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tap-ht25-testverktyg/04_ci_cd.git",
+    "accountId": "5440e5fd-0237-47b3-abdc-f331bf59ead6"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -71,11 +73,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1774878727486</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Provar pusha (fel i linter och unit tests)">
+      <option name="closed" value="true" />
+      <created>1774879478868</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1774879478868</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial files" />
+    <MESSAGE value="Provar pusha (fel i linter och unit tests)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Provar pusha (fel i linter och unit tests)" />
   </component>
 </project>
