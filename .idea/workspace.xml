@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97fd174d-e045-4f84-afb4-7a70a0a76875" name="Changes" comment="Provar pusha (fel i linter och unit tests)">
+    <list default="true" id="97fd174d-e045-4f84-afb4-7a70a0a76875" name="Changes" comment="Fixade linter-fel (håll tummarna!)">
       <change beforePath="$PROJECT_DIR$/src/algorithms/primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/primes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/unit/test_primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit/test_primes.py" afterDir="false" />
     </list>
@@ -23,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lejonmanen"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/tap-ht25-testverktyg/04_ci_cd.git",
@@ -44,6 +50,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.primes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -80,12 +87,20 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1774879478868</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Fixade linter-fel (håll tummarna!)">
+      <option name="closed" value="true" />
+      <created>1774879829168</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1774879829168</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial files" />
     <MESSAGE value="Provar pusha (fel i linter och unit tests)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Provar pusha (fel i linter och unit tests)" />
+    <MESSAGE value="Fixade linter-fel (håll tummarna!)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixade linter-fel (håll tummarna!)" />
   </component>
 </project>
