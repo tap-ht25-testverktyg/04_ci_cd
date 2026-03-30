@@ -11,6 +11,7 @@ def is_prime(n):
 
     limit = math.ceil(math.sqrt(n))
     for i in range(3, limit, 2):
+        # print("is_prime debug: ", i, limit, (n % i))
         if n % i == 0:
             return False
     return True
