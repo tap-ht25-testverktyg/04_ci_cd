@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97fd174d-e045-4f84-afb4-7a70a0a76875" name="Changes" comment="Fixade linter-fel (håll tummarna!)">
+    <list default="true" id="97fd174d-e045-4f84-afb4-7a70a0a76875" name="Changes" comment="Tillfällig fix av enhetstest">
       <change beforePath="$PROJECT_DIR$/src/algorithms/primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/primes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/unit/test_primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit/test_primes.py" afterDir="false" />
     </list>
@@ -94,13 +94,28 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1774879829168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Tillfällig fix av enhetstest">
+      <option name="closed" value="true" />
+      <created>1774880293339</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1774880293339</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Tillfällig fix av enhetstest">
+      <option name="closed" value="true" />
+      <created>1774880370364</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1774880370364</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial files" />
     <MESSAGE value="Provar pusha (fel i linter och unit tests)" />
     <MESSAGE value="Fixade linter-fel (håll tummarna!)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixade linter-fel (håll tummarna!)" />
+    <MESSAGE value="Tillfällig fix av enhetstest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tillfällig fix av enhetstest" />
   </component>
 </project>
